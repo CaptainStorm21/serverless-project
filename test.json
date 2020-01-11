@@ -1,0 +1,22 @@
+{
+    "person": {
+        "name": "Jane Shane",
+        "age": 21,
+        "salary": 120000.0,
+        "isManager": true
+    },
+    "customer":{
+        "companies": ["x", "y", "z"]
+    },
+    "movie":{
+        "author": {
+            "id": 1,
+            "name": "James Jones"
+        }
+    },
+    "friends": [
+        { "id": 1, "name": "Jane"},
+        { "id": 2, "name": "Marina"},
+        { "id": 3, "name": "Phillip"}
+    ]
+}
